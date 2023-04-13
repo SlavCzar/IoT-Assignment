@@ -11,8 +11,8 @@
 
 ## Code
 
-![Code File](https://github.com/SlavCzar/IoT-Assignment/blob/main/Assignment.py)
+[Code File](https://github.com/SlavCzar/IoT-Assignment/blob/main/Assignment.py)
 
-##Dashboard
+## Dashboard
 
 ![Dashboard](https://github.com/SlavCzar/IoT-Assignment/blob/main/Dashboard.png)
